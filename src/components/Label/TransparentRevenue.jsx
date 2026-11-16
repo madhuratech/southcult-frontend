@@ -92,8 +92,9 @@ export default function TransparentRevenue() {
           </h2>
 
           <p className="mt-10 max-w-xl text-sm font-light leading-relaxed text-white/40 sm:text-base">
-            Every project begins with a clear and transparent agreement. Revenue earned through streaming, licensing,
-            and monetisation is shared based on the mutually signed collaboration, ensuring fairness, trust, and long-term partnerships.
+            Every project begins with a clear and transparent agreement. As an Independent Record Label, 
+            SouthCult ensures revenue earned through streaming, licensing, distribution, and monetisation is 
+            shared fairly based on mutually signed collaborations, building trust and sustainable partnerships.
 
           </p>
         </div>
@@ -108,21 +109,21 @@ export default function TransparentRevenue() {
           <RevenueItem
             number="01"
             title="Agreement"
-            description="Every release begins with a clear, transparent agreement. Rights, responsibilities, and expectations are defined before we create together."
+            description="Every Music Release Label partnership begins with a clear, transparent agreement. Rights, responsibilities, ownership, and expectations are defined before production starts, creating a strong foundation for every creator."
           />
 
           {/* Step 02 */}
           <RevenueItem
             number="02"
             title="Release"
-            description="We plan, publish, and promote every release together. Our team supports creators from launch to audience reach. "
+            description="As a Music Release Label, SouthCult provides complete Music Release Services, including production planning, Music Distribution, promotion, audience development, and launch strategies. Every release is managed with creators from concept to global streaming platforms."
           />
 
           {/* Step 03 */}
           <RevenueItem
             number="03"
             title="Revenue"
-            description="Revenue is shared fairly according to the signed agreement. Creators receive transparent earnings with long-term partnership opportunities."
+            description="Revenue is shared fairly according to the signed agreement. Our Record Label for Independent Artists provides transparent earnings, performance tracking, and long-term opportunities so creators can build sustainable careers while growing with SouthCult."
           />
 
         </div>

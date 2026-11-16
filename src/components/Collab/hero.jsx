@@ -91,8 +91,7 @@ export default function CollaborationHero() {
                                 md:leading-8
                             "
                         >
-                            We collaborate with artists, song creators, filmmakers, and storytellers to transform original ideas
-                            into meaningful projects that inspire audiences and create lasting impact.
+                           We collaborate with artists, song creators, filmmakers, and storytellers to transform original ideas into meaningful projects that inspire audiences and create lasting impact. SouthCult is a Music Collaboration Platform where creative talent comes together to build exceptional projects.
                         </p>
 
                     </div>

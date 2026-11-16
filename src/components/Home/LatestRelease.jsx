@@ -42,7 +42,7 @@ export default function LatestRelease() {
             secondName: "DOWN",
             category: "Debut Single",
             description:
-                "The first chapter of SouthCult's creative journey, bringing together original music, authentic storytelling, and artistic expression to inspire audiences and celebrate independent talent.",
+                "The first chapter of SouthCult's creative journey, bringing together original music, authentic storytelling, and artistic expression to inspire audiences and celebrate independent talent with the support of our music recording company.",
             spotifyId: "7v1tMD4WPsGlqNJzZkADVr",
             spotifyUrl:
                 "https://open.spotify.com/track/7v1tMD4WPsGlqNJzZkADVr",

@@ -14,6 +14,7 @@ import mobileAsal from "../../assets/artist/mobileasal.png";
 import mobilepuff from "../../assets/artist/mobilepuff.png";
 import TA from "../../assets/artist/TA.png";
 
+
 const NewYearEventHero = () => {
 
 

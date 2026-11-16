@@ -80,11 +80,10 @@ export default function About() {
             />
 
             <p className="text-lg leading-8 mb-6">
-                SouthCult is a creative ecosystem empowering independent artists
-                through artist development, funding, music production,
-                documentaries, podcasts, broadcasting, marketing, and live
-                experiences, helping creators transform original ideas into
-                impactful stories that connect with audiences worldwide.
+                SouthCult is a creative ecosystem and music production company empowering independent artists
+                through artist development, funding, music production, documentaries, podcasts, broadcasting, 
+                marketing, and live experiences, helping creators transform original ideas into impactful stories 
+                that connect with audiences worldwide.
             </p>
 
             <a

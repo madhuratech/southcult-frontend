@@ -13,7 +13,7 @@ const creations = [
         number: "01",
         title: "Music Production",
         description:
-            "SouthCult is dedicated to creating films and documentaries that amplify independent voices and overlooked stories. Through production, promotion, and distribution, we help filmmakers connect with audiences, preserve culture, inspire change, and build lasting creative legacies together.",
+            "SouthCult is a music production studio where artists, producers, and creators collaborate to develop original music with professional production, recording, mixing, and creative direction. We help independent talent produce high-quality music that connects with audiences and builds lasting creative careers.",
         image: Music,
     },
     {

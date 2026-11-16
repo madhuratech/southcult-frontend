@@ -92,9 +92,11 @@ export default function CollaborationHero() {
                                 md:leading-8
                             "
                         >
-                            SouthCult empowers independent artists, filmmakers, storytellers, and creators through artist development, 
-                            funding, production, marketing, broadcasting, and live experiences, helping original ideas grow into meaningful
-                            careers and lasting cultural impact.
+                            SouthCult is an independent record label and artist development label that empowers musicians, 
+                            filmmakers, storytellers, and creators through artist development, funding, production, marketing, 
+                            broadcasting, and live experiences. As a record label for independent artists, we help original
+                            ideas grow into meaningful careers with professional music release services, transparent 
+                            partnerships, and lasting cultural impact.
                         </p>
 
                     </div>

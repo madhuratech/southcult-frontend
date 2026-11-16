@@ -14,7 +14,7 @@ export default function Hero() {
                     <div className="max-w-6xl">
                         {/* Main heading */}
                         <h2 className="font-serif text-5xl leading-[0.95] tracking-tight sm:text-6xl md:text-8xl lg:text-[90px]">
-                            South India's Artists
+                            South India's Independent Artists
                             <br />
 
                             <span className="text-white/70">

@@ -254,8 +254,7 @@ export default function TraditionalVsSouthCult() {
 
               <div className="mt-auto pt-10">
                 <p className="max-w-sm text-sm leading-relaxed text-white/55">
-                  Creators collaborate, share revenue transparently, and grow through long-term partnerships with SouthCult.
-                </p>
+                  SouthCult is an Independent Artists Label and Music Distribution Label empowering creators through transparent collaboration, distribution, and promotion across the Tamil and South Indian music industry.                </p>
               </div>
             </div>
           </div>

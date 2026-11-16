@@ -6,25 +6,25 @@ const collaborators = [
         number: "01",
         title: "Artists",
         description:
-            "Whether you're an emerging or established artist, SouthCult provides the platform, support, and opportunities to create original music, grow your audience, and build a sustainable creative career.",
+            "Whether you're an emerging or established artist, SouthCult provides the platform, support, and opportunities to create original music, grow your audience, and build a sustainable creative career through Artist Collaboration and Independent Artist Collaboration.",
     },
     {
         number: "02",
         title: "Song Creators",
         description:
-            "Songwriters, lyricists, and composers with original ideas looking for production, protection, releases, and audience growth.",
+            "Songwriters, lyricists, composers, and producers with original ideas looking for production, protection, releases, and audience growth can connect with SouthCult for Song Collaboration and Music Producer Collaboration.",
     },
     {
         number: "03",
         title: "Filmmakers",
         description:
-            "Bring your vision to life with SouthCult. We collaborate with independent filmmakers to develop, produce, and distribute compelling films and documentaries that connect with audiences and create lasting impact.",
+            "Bring your vision to life with SouthCult. We collaborate with independent filmmakers to develop, produce, and distribute compelling films and documentaries that connect with audiences and create lasting impact. We also encourage Music Production Collaboration between filmmakers, composers, and artists to create unforgettable cinematic experiences.",
     },
     {
         number: "04",
         title: "Storytellers",
         description:
-            "Every story deserves to be heard. SouthCult partners with storytellers to transform original ideas into meaningful documentaries, podcasts, films, and creative productions that inspire and engage audiences..",
+            "Every story deserves to be heard. SouthCult partners with storytellers to transform original ideas into meaningful documentaries, podcasts, films, and creative productions that inspire and engage audiences. We also create opportunities for Brand Collaboration for Artists and Concert Collaboration, helping creators expand their reach through strategic partnerships.",
     },
 ];
 
@@ -81,10 +81,9 @@ export default function WhoWeCollaborate() {
                     <div className="md:col-span-4 md:pb-1">
 
                         <p className="max-w-sm text-sm font-light leading-7 text-white/40 md:text-base md:leading-8">
-                            We work with people who have something worth
-                            creating — from independent music to original
-                            stories and films.
-                        </p>
+                            We collaborate with artists, song creators, filmmakers, and storytellers who are passionate about 
+                            creating original music, films, documentaries, podcasts, and stories that inspire audiences and create 
+                            lasting cultural impact through meaningful Music Collaboration.</p>
 
                     </div>
 
