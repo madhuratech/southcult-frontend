@@ -13,12 +13,14 @@ import asal from "../../assets/artist/asal.png";
 import mobileAsal from "../../assets/artist/mobileasal.png";
 import mobilepuff from "../../assets/artist/mobilepuff.png";
 import TA from "../../assets/artist/TA.png";
+import fault from "../../assets/artist/fault.png";
+import aadhithan from "../../assets/artist/aadhithan.png";
 
 
 const NewYearEventHero = () => {
 
 
-  const backgroundImages = [eventImage, asal, VickyImage, Records, evnmarabu, dacalty, puff, TA];
+  const backgroundImages = [eventImage, asal, VickyImage, Records, evnmarabu, dacalty, puff, TA, fault, aadhithan];
 
   const [currentImage, setCurrentImage] = useState(0);
 
