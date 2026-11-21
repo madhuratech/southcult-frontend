@@ -1,0 +1,8 @@
+
+RewriteEngine On
+
+# Old Label URL to new URL
+RewriteRule ^label/?$ https://southcult.com/artist-development-label [R=301,L]
+
+# Old Collaboration URL to new URL
+RewriteRule ^collab/?$ https://southcult.com/independent-artist-collaboration [R=301,L]
