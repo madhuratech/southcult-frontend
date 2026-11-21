@@ -159,18 +159,6 @@ export default function TransparentRevenue() {
           </div>
         </div>
 
-        {/* Bottom label */}
-        <div className="mt-20 flex items-center justify-between border-t border-white/10 pt-6">
-
-          <span className="text-[9px] uppercase tracking-[0.4em] text-white/20">
-            South Cult
-          </span>
-
-          <span className="text-[9px] uppercase tracking-[0.4em] text-white/20">
-            Transparency
-          </span>
-
-        </div>
 
       </div>
     </section>

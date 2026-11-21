@@ -31,14 +31,14 @@ export default function Footer() {
               </a>
 
               <a
-                href="/label"
+                href="/artist-development-label"
                 className="text-[10px] uppercase tracking-[0.15em] hover:text-white/60 transition"
               >
                 South Cult Label
               </a>
 
               <a
-                href="/collab"
+                href="/independent-artist-collaboration"
                 className="text-[10px] uppercase tracking-[0.15em] hover:text-white/60 transition"
               >
                 Collaboration
@@ -113,14 +113,14 @@ export default function Footer() {
               </a>
 
               <a
-                href="/label"
+                href="/artist-development-label"
                 className="text-[10px] uppercase tracking-[0.15em]"
               >
                 South Cult Label
               </a>
 
               <a
-                href="/collab"
+                href="/independent-artist-collaboration"
                 className="text-[10px] uppercase tracking-[0.15em]"
               >
                 Collaboration

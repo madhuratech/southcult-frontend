@@ -14,6 +14,22 @@ import SmoothCursor from "./components/Layout/SmoothCursor";
 // import WorkSubmission from "./components/Contact/form";
 import ComingSoon from "./pages/Event";
 import ContactEnquiry from "./components/Contact/enquiry";
+import SEO from "./components/seo";
+
+
+function SEOPage({ title, description, keywords, slug, children }) {
+  return (
+    <>
+      <SEO
+        title={title}
+        description={description}
+        keywords={keywords}
+        slug={slug}
+      />
+      {children}
+    </>
+  );
+}
 
 
 // Shared layout for all pages
@@ -36,8 +52,8 @@ function App() {
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<Home />} />
-          <Route path="/label" element={<SouthCultLabel />} />
-          <Route path="/collab" element={<Collab />} />
+          <Route path="/artist-development-label" element={<SouthCultLabel />} />
+          <Route path="/independent-artist-collaboration" element={<Collab />} />
           <Route path="/contact" element={<ContactEnquiry/>} />
           <Route path="/event" element={<ComingSoon />} />
           

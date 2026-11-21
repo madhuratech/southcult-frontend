@@ -76,42 +76,42 @@ const NewYearEventHero = () => {
         {backgroundImages.map((image, index) => (
           <React.Fragment key={index}>
             {/* BACKGROUND IMAGE */}
-        <picture
-  className={`
+            <picture
+              className={`
     absolute inset-0
     h-full w-full
     transition-opacity duration-[1500ms] ease-in-out
     ${currentImage === index ? "opacity-100" : "opacity-0"}
   `}
->
-  {/* Mobile image for ASAL */}
-  {index === 1 && (
-    <source
-      media="(max-width: 639px)"
-      srcSet={mobileAsal}
-    />
-  )}
+            >
+              {/* Mobile image for ASAL */}
+              {index === 1 && (
+                <source
+                  media="(max-width: 639px)"
+                  srcSet={mobileAsal}
+                />
+              )}
 
-  {/* Mobile image for CRECORDS */}
-  {index === 3 && (
-    <source
-      media="(max-width: 639px)"
-      srcSet={MobileRecords}
-    />
-  )}
+              {/* Mobile image for CRECORDS */}
+              {index === 3 && (
+                <source
+                  media="(max-width: 639px)"
+                  srcSet={MobileRecords}
+                />
+              )}
 
-  {/* Mobile image for PUFF */}
-  {index === 6 && (
-    <source
-      media="(max-width: 639px)"
-      srcSet={mobilepuff}
-    />
-  )}
+              {/* Mobile image for PUFF */}
+              {index === 6 && (
+                <source
+                  media="(max-width: 639px)"
+                  srcSet={mobilepuff}
+                />
+              )}
 
-  <img
-    src={image}
-    alt="Cult Night event background"
-    className="
+              <img
+                src={image}
+                alt="Cult Night event background"
+                className="
       absolute inset-0
       h-full w-full
       object-cover
@@ -119,8 +119,8 @@ const NewYearEventHero = () => {
       sm:object-[70%_center]
       lg:object-center
     "
-  />
-</picture>
+              />
+            </picture>
             {/* VICKY NAME - COMPACT RESPONSIVE */}
             {index === 2 && (
               <div
@@ -273,7 +273,7 @@ lg:right-[5%] lg:top-[9%]
                 </div>
 
                 <p className="text-sm font-light tracking-[0.12em] text-white/80">
-                  Rathinam Technical Campus, Pollachi Road, Eachanari, Coimbatore.
+                  Rathinam Gold Campus, Coimbatore.
                 </p>
 
               </div>

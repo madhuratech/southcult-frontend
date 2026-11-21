@@ -84,7 +84,7 @@ export default function LatestRelease() {
             </section>
 
             {/* SECTION 2 : RELEASE CONTENT */}
-            <section className="relative z-10 bg-[#050505]">
+            <section className="relative z-10 bg-[#050505] font-clash ">
 
                 <div className="max-w-7xl mx-auto px-6 py-16 sm:py-24">
 

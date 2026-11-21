@@ -87,7 +87,7 @@ export default function About() {
             </p>
 
             <a
-                href="/label"
+                href="/artist-development-label"
                 className="group inline-flex items-center gap-3 border border-white/20 px-6 py-3 rounded-full text-sm tracking-widest uppercase hover:bg-white hover:text-black transition-all duration-500"
             >
                 What We Stand For
