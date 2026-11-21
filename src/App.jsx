@@ -18,6 +18,8 @@ import SEO from "./components/seo";
 
 
 function SEOPage({ title, description, keywords, slug, children }) {
+
+  
   return (
     <>
       <SEO
