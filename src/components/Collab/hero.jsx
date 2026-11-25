@@ -78,7 +78,6 @@ export default function CollaborationHero() {
                     {/* Paragraph */}
                     <div className="md:col-span-4 md:pt-16 lg:pt-20">
 
-                        <div className="mb-7 h-px w-12 bg-white/30" />
 
                         <p
                             className="
